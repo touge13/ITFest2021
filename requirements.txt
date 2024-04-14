@@ -1,0 +1,5 @@
+datetime
+aiogram
+psycopg2
+flask
+gunicorn
